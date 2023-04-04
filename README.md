@@ -1,4 +1,6 @@
-# Server: 
+This is a full-stack web application that combines a Spring Boot REST API server with a React client. With this powerful technology stack, you can build dynamic and interactive web applications quickly and easily.
+
+# 1. Server: 
 ### Project Description
 - This is a Java application built with Spring Boot that provides a REST API for managing "server" objects. The application uses MongoDB as the backend database to store the server objects.  
 - The API is fully tested and comes with appropriate error handling and logging to ensure reliability, accuracy, better debugging.  
@@ -75,8 +77,9 @@
 ### Sample Test Results
 ![junittest](screenshots/junit-testing.png)  
 
+# ================================================================================================
 
-# Client
+# 2. Client
 ### Project Description
 This project combines a Java Spring Boot REST API with a React web UI.
 The app allow the user to create, show, and delete documents of Server collection. Below are the screenshots of these features in action.
