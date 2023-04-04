@@ -77,7 +77,7 @@ This is a full-stack web application that combines a Spring Boot REST API server
 ### Sample Test Results
 ![junittest](screenshots/junit-testing.png)  
 
-# ================================================================================================
+## ============================
 
 # 2. Client
 ### Project Description
