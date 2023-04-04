@@ -36,7 +36,7 @@ const Navbar = () => {
                   fontSize: 26,
                 }}
               >
-                ServerVaultServers
+                ServerVault
               </Typography>
             </div>
           </div>
